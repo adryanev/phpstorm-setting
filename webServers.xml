@@ -4,7 +4,7 @@
       <webServer id="eb08b4f6-b733-401b-8e1c-a34ee33ef5c5" name="vagrant_event-hub" url="http://event-hub.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="9c915765-8586-40a8-ba29-7a406a8e0a46" name="localhost" url="http://localhost">
+      <webServer id="9c915765-8586-40a8-ba29-7a406a8e0a46" name="localhost" url="http://localhost/event-hub">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
