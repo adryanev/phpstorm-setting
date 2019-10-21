@@ -7,24 +7,19 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="03c360a5-4984-42c8-82d1-13a03cbaf023" name="PHP 7.3" home="\usr\bin\php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="b397f74d-c409-4118-8da9-e61e774f266b" name="PHP 7.2" home="C:\xampp\php\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="21dce36c-79e3-4cc8-a83c-2d236593445d" name="PHP 7.3" home="D:\SDK\php\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="C:\xampp\php\php-cgi.exe" php_cli="C:\xampp\php\php.exe" path_separator=";" version="7.2.11">
+      <interpreter name="PHP 7.3">
+        <phpinfo binary_type="PHP" php_cgi="D:\SDK\php\php-cgi.exe" php_cli="D:\SDK\php\php.exe" path_separator=";" version="7.3.10">
           <additional_php_ini />
-          <configuration_file>C:\xampp\php\php.ini</configuration_file>
+          <configuration_file>D:\SDK\php\php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value="C:\xampp\php\PEAR" />
+            <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.6.0">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -33,35 +28,22 @@
             <extension name="SPL" />
             <extension name="SimpleXML" />
             <extension name="bcmath" />
-            <extension name="bz2" />
             <extension name="calendar" />
             <extension name="ctype" />
-            <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
-            <extension name="exif" />
-            <extension name="fileinfo" />
             <extension name="filter" />
-            <extension name="ftp" />
-            <extension name="gd" />
-            <extension name="gettext" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="json" />
             <extension name="libxml" />
-            <extension name="mbstring" />
-            <extension name="mysqli" />
             <extension name="mysqlnd" />
-            <extension name="openssl" />
             <extension name="pcre" />
-            <extension name="pdo_mysql" />
-            <extension name="pdo_sqlite" />
             <extension name="readline" />
             <extension name="session" />
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
