@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '...\console\migrations\m190723_170054_create_tabel_led.php'" />
     <option name="defaultScopeName" value="File '...\console\migrations\m190723_170054_create_tabel_led.php'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '...\console\migrations\m190723_170054_create_tabel_led.php'" />
   </component>
 </application>
