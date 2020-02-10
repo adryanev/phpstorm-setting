@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\common\helpers\UnixToDateTrait.php'" />
-    <option name="defaultScopeName" value="File '...\common\helpers\UnixToDateTrait.php'" />
-    <option name="SEARCH_SCOPE" value="File '...\common\helpers\UnixToDateTrait.php'" />
+    <option name="customScope" value="File '...\frontend\controllers\PermintaanController.php'" />
+    <option name="defaultScopeName" value="File '...\frontend\controllers\PermintaanController.php'" />
+    <option name="SEARCH_SCOPE" value="File '...\frontend\controllers\PermintaanController.php'" />
   </component>
 </application>
