@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\penjual\models\forms\KeteranganPermintaanForm.php'" />
-    <option name="defaultScopeName" value="File '...\penjual\models\forms\KeteranganPermintaanForm.php'" />
-    <option name="SEARCH_SCOPE" value="File '...\penjual\models\forms\KeteranganPermintaanForm.php'" />
+    <option name="customScope" value="File '...\penjual\controllers\PermintaanController.php'" />
+    <option name="defaultScopeName" value="File '...\penjual\controllers\PermintaanController.php'" />
+    <option name="SEARCH_SCOPE" value="File '...\penjual\controllers\PermintaanController.php'" />
   </component>
 </application>
